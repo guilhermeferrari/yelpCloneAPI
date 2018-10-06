@@ -54,3 +54,10 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+# maps KEY
+/apimapsconfig.json
+android/app/src/main/res/values/secrets.xml
+
+# Pasta podfile (config ios)
+ios/Pods
