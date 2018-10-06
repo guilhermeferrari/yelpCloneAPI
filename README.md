@@ -1,6 +1,5 @@
 # yelpCloneAPI
 Utilizaçao de mapas com o react native.
-___
 
 App feito com base na série de videos: [Yelp Clone (Turbo 360)](https://www.youtube.com/watch?v=sxKppOV6X04)
 
@@ -16,3 +15,5 @@ esse arquivo deve possuir a API KEY, exemplo:
 ```
 
 Esse arquivo específico foi adicionado ao gitignore para evitar o uso da api para o desenvolvimento desse app.
+
+___
