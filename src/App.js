@@ -3,7 +3,7 @@ import { Platform, StyleSheet, Text, View } from 'react-native';
 import { Main } from './components/screens'
 import { Map } from './components/containers'
 import { createBottomTabNavigator } from 'react-navigation'
-
+//pausado em pt3 6:30
 const Tabs = createBottomTabNavigator({
   Nearby: Main,
   Search: Map,
