@@ -3,7 +3,7 @@ Utilizaçao de mapas com o react native
 
 # Keys
 
-Para a ultilização correta, deve-se criar um arquivo xml em android/app/res/values
+Para a ultilização correta, deve-se criar um arquivo xml em `android/app/res/values`
 esse arquivo deve possuir a API KEY, exemplo:
 
 ```xml
