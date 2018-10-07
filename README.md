@@ -14,6 +14,12 @@ esse arquivo deve possuir a API KEY, exemplo:
 </resources>
 ```
 
+Esse string pode ser referenciada em outro `.xml` da seguinte forma:
+
+```
+android:value="@string/google_maps_api_key"/>
+```
+
 Esse arquivo específico foi adicionado ao gitignore para evitar o uso da api para o desenvolvimento desse app.
 
 ___
