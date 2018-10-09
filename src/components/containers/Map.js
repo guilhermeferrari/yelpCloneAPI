@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 import { View, Text } from 'react-native'
 import MapView from 'react-native-maps'
+import { styles } from '../styles'
 
 class Map extends Component {
     render() {
         return (
-            <View>
+            <View style={styles.mapView}>
                 <MapView
+                    style={styles.mapView}
                     initialRegion={{
                         latitude: 37.78825,
                         longitude: -122.4324,
