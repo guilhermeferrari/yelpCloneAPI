@@ -22,6 +22,6 @@ Esse string pode ser referenciada em outro `.xml` da seguinte forma:
     android:value="@string/google_maps_api_key"/>
 ```
 
-Esse arquivo específico foi adicionado ao `.gitignore` para evitar que outras pessoas com acesso a esse reposiório usem e key indevidamente.
+Esse arquivo específico foi adicionado ao `.gitignore` para evitar que outras pessoas com acesso a esse repositório usem e key indevidamente.
 
 ___
