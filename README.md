@@ -24,4 +24,9 @@ Esse string pode ser referenciada em outro `.xml` da seguinte forma:
 
 Esse arquivo específico foi adicionado ao `.gitignore` para evitar que outras pessoas com acesso a esse repositório usem e key indevidamente.
 
+
+## restaurants.json
+
+Arquivo fornecido pela aula. No tutorial utilizam o MondoDB. O arquivo original nao é um array: `[]`, e os objetos nao estão separados por `,`, então editei o arquivo fazendo as correções para importar no Firebase, que é mais familiar.
+Se no decorrer das aulas não der certo utilizar o Firebase, procuro como configurar o MongoDB
 ___

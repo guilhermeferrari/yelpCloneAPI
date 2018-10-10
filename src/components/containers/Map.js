@@ -3,14 +3,17 @@ import { View, Text, StatusBar } from 'react-native'
 import MapView, { Marker } from 'react-native-maps'
 import { styles } from '../styles'
 
+
 class Map extends Component {
+	
+
 	constructor() {
 		super();
 		this.state = {
 			markers: [{
 				coordinate: {
-					latitude: -18.7201025,
-					longitude: -39.8612139
+					latitude: 40.7676919,
+					longitude: -73.98513559999999
 				},
 				title: 'titulo',
 				description: 'desc'
@@ -28,8 +31,8 @@ class Map extends Component {
 					}}
 					style={styles.mapView}
 					initialRegion={{
-						latitude: -18.7201025,
-						longitude: -39.8612139,
+						latitude: 40.7676919,
+						longitude: -73.98513559999999,
 						latitudeDelta: 0.015,
 						longitudeDelta: 0.0121,
 					}} >
